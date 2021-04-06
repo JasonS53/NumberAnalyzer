@@ -1,0 +1,13 @@
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.exe
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.deps.json
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.json
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.genruntimeconfig.cache
+C:\Users\jms_s\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csprojAssemblyReference.cache
